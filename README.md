@@ -13,6 +13,7 @@ Di awal program, petugas memasukkan nama dan ID. Setelah itu, program menampilka
 - [Tebak Kata](https://github.com/Srghhhhhh/UAS_AP_5_/tree/main/TEBAK%20KATA)🎮
   
   Dalam game tebak kata ini, user harus menebak huruf satu per satu hingga menemukan kata yang benar. Program memiliki beberapa level kesulitan dengan jumlah nyawa yang berbeda pada setiap level. Jika user salah menebak huruf, maka nyawa akan berkurang. Di akhir permainan, user akan mendapatkan skor yang ditampilkan pada leaderboard.
+  
 -[Game Tebak Negara](https://github.com/Srghhhhhh/UAS_AP_5_No-Words-For-Coding-NWFC-/tree/main/Game%20Tebak%20Negara)🚩
 
   Di game Tebak negara ini, pemain harus menebak negara yang dimaksud oleh program secara benar. Nama negara akan ditampilkan dengan beberapa huruf telah dihilangkan, sehingga membuat permainan menantang. Apabila berhasil menebak dengan benar, poin akan ditambah satu, namun jika pemain salah menebak skor akan tetap. Permainan akan terus berlanjut selama pemain setuju untuk melanjutkannya (Endless mode).
